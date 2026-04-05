@@ -48,7 +48,7 @@ Manual de respostas rápidas e procedimentos para otimizar o atendimento ao clie
 | **Instabilidade Externa:** | O sinal da Quality está normalizado. Instabilidades em listas de IPTV geralmente partem do servidor do próprio aplicativo. |
 | **Teste Comparativo:** | Se o YouTube e Netflix funcionam, a internet está ok. O problema é restrito à rota do servidor de canais. |
 | **Dica Técnica:** | Serviços de IPTV não oferecem garantia de estabilidade por dependerem de servidores que mudam de rota constantemente. |
-| **Conclusão:** | erificamos que a sua conexão com a Quality está operando com a velocidade total contratada e sem perdas de sinal. É importante ressaltar que não temos gerência sobre aplicativos de IPTV de terceiros. Por serem serviços que utilizam rotas variáveis, eles podem apresentar instabilidades que não estão relacionadas à qualidade da sua internet local. |
+| **Conclusão:** | Verificamos que a sua conexão com a Quality está operando com a velocidade total contratada e sem perdas de sinal. É importante ressaltar que não temos gerência sobre aplicativos de IPTV de terceiros. Por serem serviços que utilizam rotas variáveis, eles podem apresentar instabilidades que não estão relacionadas à qualidade da sua internet local. |
 
 ## 💡 Dicas de Ouro
 * **Nome do Cliente:** Sempre chame o cliente pelo nome para um atendimento mais humano.
